@@ -6,7 +6,7 @@
     "boostrap": "^1.0.0",
     "bootstrap": "^3.3.7",
     "d3": "^3.5.12",
-    "highcharts": "^5.0.14",
+    "highcharts": "8.1.0",
     "jquery": "^3.2.1",
     "react": "^15.6.1",
     "react-d3": "^0.4.0",
